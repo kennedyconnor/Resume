@@ -1,0 +1,35 @@
+/*{
+  outline-color: slateblue
+}*/
+
+h2{
+background-color: bisque;
+  color: rgb(39, 61, 163);  
+}
+
+address{
+  background-color: rgba(30, 30, 99, 0.877);
+  color:white
+}
+
+address ul{
+  list-style:none;
+  display: flex;
+  justify-content: center;
+}
+
+address li{
+  padding: 2px 20px
+}
+
+section>header {
+  color:navy
+}
+
+#skills ul {
+  column-count: 3
+}
+
+#skills li{
+  padding: 5px 0px
+}
